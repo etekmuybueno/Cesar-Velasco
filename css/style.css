@@ -64,9 +64,21 @@ p{
   #contact{
     padding:40px;
     color:#fff;
-  
-  }
 
+  }
+  .php{
+  margin-top: 40px;
+  }
+  .carousel .item {
+  height: 500px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
 .pageone{
 background:url("../img/pageone.jpg");
   background-size:cover;
@@ -81,6 +93,7 @@ background:url("../img/pageone.jpg");
   background-position: center;
      background-repeat: no-repeat;
 }
+/*
 .pagethree{
   background:url("../img/pagethree.jpg");
   background-size: cover;
@@ -88,6 +101,7 @@ background:url("../img/pageone.jpg");
   background-position: center;
      background-repeat: no-repeat;
 }
+ */
 .pagefour{
   background:url("../img/pagefour.jpg");
   background-size: cover;
